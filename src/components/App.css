@@ -1,0 +1,52 @@
+/* Styles go here */
+.navbar-brand1{
+    font-size: 12px;
+    color: azure;
+    margin-right: 1px;
+}
+
+.image{
+    margin-right: 20px;
+    margin-left:20px;
+    height: 25px;
+    width: 25px;
+}
+
+.card{
+    /* margin-left: 350px; */
+    margin: auto;
+    max-width: 600px;
+    /* margin-right: 350px; */
+    padding: 20px;
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    flex-flow: column;
+
+}
+
+.head{
+    float: right;
+}
+
+.form-group{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    border-color: blue;
+    border-width: 10px;
+    border-radius: 10px;
+}
+
+.btn1{
+    color: black;
+    background-color: rgb(7, 238, 242);
+    border: 10;
+    border-radius: 10;
+    align-self: center;
+    align-items: center;
+    max-width: 500px;
+    margin: auto;
+}
